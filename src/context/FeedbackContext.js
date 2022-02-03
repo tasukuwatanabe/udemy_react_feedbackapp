@@ -7,7 +7,7 @@ export const FeedbackProvider = ({ children }) => {
     {
       id: 1,
       text: 'This Item is from context',
-      rating: 10,
+      rating: 8,
     },
   ]);
   return (
