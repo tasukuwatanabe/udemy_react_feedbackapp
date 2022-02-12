@@ -1,8 +1,14 @@
 # Feedback App
 
-## Deploy
+## Usage
 
-https://nervous-carson-62dd87.netlify.app/
+```
+npm install
+```
+
+```
+npm run dev
+```
 
 ## Udemy Course
 
